@@ -73,13 +73,13 @@ let circles = [
     new Circle(103, 495, 50, "blue", "1", 8),
     new Circle(541, 500, 20, "blue", "2", 4),
     new Circle(941, 470, 70, "blue", "3", 5),
-    /* new Circle(Math.random() * window_width, Math.random() * window_height, 90, "blue", "4", 7),
+    new Circle(Math.random() * window_width, Math.random() * window_height, 90, "blue", "4", 7),
     new Circle(Math.random() * window_width, Math.random() * window_height, 40, "blue", "5", 9),
     new Circle(Math.random() * window_width, Math.random() * window_height, 50, "blue", "6", 11),
     new Circle(Math.random() * window_width, Math.random() * window_height, 70, "blue", "7", 13),
     new Circle(Math.random() * window_width, Math.random() * window_height, 100, "blue", "8", 15),
     new Circle(Math.random() * window_width, Math.random() * window_height, 64, "blue", "9", 17),
-    new Circle(Math.random() * window_width, Math.random() * window_height, 87, "blue", "10", 19) */
+    new Circle(Math.random() * window_width, Math.random() * window_height, 87, "blue", "10", 19)
 ];
 
 function updateCircles() {
